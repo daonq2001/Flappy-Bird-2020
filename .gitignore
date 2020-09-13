@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Flappy Bird 2020/Library
+/Flappy Bird 2020/Logs
+/Flappy Bird 2020/obj/Debug
+/Flappy Bird 2020/Packages
+/Flappy Bird 2020/ProjectSettings
+/Flappy Bird 2020/Temp
